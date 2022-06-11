@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lhprZ
+- 👋 Hi, I’m Luis Ribeiro
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on repositories
